@@ -1,6 +1,6 @@
 # Setup
 setwd("/Users/knutk/Dropbox/Classes/DataScience/CleaningData/ProgAssign1/")
-require(dplyr)
+require("dplyr")
 
 # Load the data from the test and learn dataset, and merge with the subject id so we have a identifier
 # Test dataset
